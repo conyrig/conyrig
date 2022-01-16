@@ -1,4 +1,5 @@
-## Olá, o meu nome é Constança Rigueira!
+## Hey! My name is Constança Rigueira!
+## I'm currently studying Electrical and Computer Engineering in Portugal!
 <div align="center">
   <a href="https://github.com/conyrig">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=conyrig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
